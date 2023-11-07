@@ -9,7 +9,7 @@ Sandbox Repo :)
 <a href="https://github.com/winverma" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
 
 <p>
-<a aria-label="license" href="https://github.com/primer/css/blob/main/LICENSE">
+<a aria-label="license" href="https://github.com/test/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/primer/css.svg" alt="">
   </a>
 </p>
