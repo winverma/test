@@ -17,3 +17,9 @@ Sandbox Repo :)
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
+
+<h1>
+    <a href="https://github.com/winverma">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d8ae81&center=true&vcenter=true&width=1000&lines=Ayo Mate! 🦄+Man's+Name+is+Win+Verma" alt="Network Threat Detector by Win" />
+    </a>
+</h1>
