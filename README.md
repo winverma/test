@@ -7,3 +7,4 @@ Sandbox Repo :)
  </div>
 
 <a href="https://github.com/winverma" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
+[MIT](./LICENSE) &copy; [GitHub](https://github.com/)
