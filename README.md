@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
+<picture><img src = "https://raw.githubusercontent.com/winverma/test/main/about_me.gif" width = 50px></picture> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
+
 ## Test
 
 <a href="https://github.com/winverma" > <img src="https://raw.githubusercontent.com/winverma/test/main/Flashy%20Lines.gif" align="center" /> </a>
@@ -9,7 +10,6 @@ Sandbox Repo :)
 
 # 📈 Contribution Graph
  [![Win Verma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winverma&theme=react-dark)](https://github.com/winverma)
-
 
 <a href="https://github.com/winverma" >  <img src="https://github.com/winverma/test/blob/main/github-contribution-grid-snake.gif" align="center" />  </a>
 
