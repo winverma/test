@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=teal&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
 ## Test
 
 <a href="https://github.com/winverma" > <img src="https://raw.githubusercontent.com/winverma/test/main/Flashy%20Lines.gif" align="center" /> </a>
@@ -18,5 +19,5 @@ Sandbox Repo :)
 
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
+
 
