@@ -1,4 +1,4 @@
-<picture><img src = "https://raw.githubusercontent.com/winverma/test/main/about_me.gif" width = 40px height = 45px></picture> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
+<picture><img src = "https://raw.githubusercontent.com/winverma/test/main/about_me.gif" width = 40px height = 35px></picture> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Ayo,+Mate!🦄+Man's+Name+is+Win+Verma!)](https://git.io/typing-svg)
 
 ## Test
 
